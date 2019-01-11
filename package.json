@@ -8,6 +8,7 @@
     "build": "webpack --mode production ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
     "dev": "webpack --mode dev ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
     "preinstall": "npm i -g webpack webpack-cli",
+    "postinstall": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lcf.vs <michael.rouges@gmail.com>",
