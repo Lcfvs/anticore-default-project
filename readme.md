@@ -5,7 +5,8 @@ A default anticore project codebase to build your app/site in seconds!
 ## How to build it?
 
 * Be sure to have **node.js** installed on your machine or install it: [node.js](https://nodejs.org/en/download/)
-* Clone this repository **into your localhost directory** `git clone https://github.com/Lcfvs/anticore-default-project.git your-localhost-directory/project-name`
+* Clone this repository **into your localhost directory** <br />
+`git clone https://github.com/Lcfvs/anticore-default-project.git your-localhost-directory/project-name`
 * Open a terminal in it.
 * Run the following command once: `npm i -D`
 * Each time you make a change, run this one: `npm run build`
