@@ -6,7 +6,7 @@
   "main": "./assets/dev/index.js",
   "scripts": {
     "build": "node_modules/.bin/webpack-cli --mode production ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
-    "dev": "node_modules/.bin/webpack-cli --mode dev ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
+    "dev": "node_modules/.bin/webpack-cli --mode development ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
     "postinstall": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
