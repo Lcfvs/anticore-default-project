@@ -1,6 +1,6 @@
 # anticore-default-project
 
-A default anticore project codebase to build your app/site in seconds!
+A default [anticore](https://github.com/Lcfvs/anticore) project codebase to build your app/site in seconds!
 
 ## How to build it?
 
