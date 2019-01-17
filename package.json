@@ -5,7 +5,6 @@
   "repository": "https://github.com/Lcfvs/anticore-default-project",
   "main": "./assets/dev/index.js",
   "scripts": {
-  "scripts": {
     "build": "node_modules/.bin/webpack-cli --mode production ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
     "dev": "node_modules/.bin/webpack-cli --mode dev ./assets/js/dev/index.js --output ./assets/js/dist/app.min.js",
     "postinstall": "npm run dev",
