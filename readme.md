@@ -6,10 +6,10 @@ A default [anticore](https://github.com/Lcfvs/anticore) project codebase to buil
 
 * Be sure to have **node.js** installed on your machine or install it: [node.js](https://nodejs.org/en/download/)
 * Clone this repository **into your localhost directory** <br />
-`git clone https://github.com/Lcfvs/anticore-default-project.git your-localhost-directory/project-name`
+`$ git clone https://github.com/Lcfvs/anticore-default-project.git your-localhost-directory/project-name`
 * Open a terminal in it.
-* Run the following command once: `npm i -D && npm run build`
-* Each time you make a change, run this one: `npm run build`
+* Run the following command once: `$ npm i -D && npm run build`
+* Each time you make a change, run this one: `$ npm run build`
 * Open your browser on your project index [http://localhost/project-name](http://localhost/project-name)
 * Enjoy
 
